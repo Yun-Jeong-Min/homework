@@ -29,6 +29,7 @@
 ![ps명령어](https://user-images.githubusercontent.com/104884552/172041958-d52aa737-207e-4340-90e6-ea67328855f6.PNG)
 
 
+
 **ps-e의 예시**
 
 ![ps-e명령어](https://user-images.githubusercontent.com/104884552/172042043-04f28892-0bc0-41b8-895e-c86cf7056cbd.PNG)
