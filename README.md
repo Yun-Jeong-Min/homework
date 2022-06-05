@@ -54,6 +54,7 @@
 |   |command|지정한 명렁어를 실행한다.|
 
 **jobs으로 출력되는 백그라운드 작업 상태값?**
+|jobs|예시|설명|
 |---|---|---|
 |   |Running|작업 진행중|
 |   |Done|작업이 완료되어 0을 반환|
@@ -67,3 +68,24 @@
 
 # *kill: 프로세스에 종료 시그널을 보낸다. -9는 강제 종료다.*
 -killall: 프로세스 이름으로 종료하는 명령어다.
+
+|kill|시그널 및 영어|설명|
+|---|---|---|
+|   |SIGHUP & hang up|세션이 종료될 때 시스템이 내리는 시그널|
+|   |SIGINT & interrupt|종료 요청 시그널|
+|   |SIGKILL & kill|강제 종료 시그널|
+|   |SIGSEGV & segment violation|메모리 침범이 일어날 때 시스템이 보내는 시그널|
+|   |SIGTERM & terminate|종료 요청 시그널|
+|   |SIGTSTP & temporary stop|일시 중지 요청 시그널|
+
+
+**kill 시그널 리스트**
+
+![kill](https://user-images.githubusercontent.com/104884552/172042733-d87a1868-ac1d-4c72-8ac8-9075c1d655e2.PNG)
+
+
+**프로세스에 시그널 보내기**
+>$ kill [option] PID
+># 1234(PID) 프로세스 종료
+>$ kill -9 1234
+>$ kill -SIGKILL 1234
