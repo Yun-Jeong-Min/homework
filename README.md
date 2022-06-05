@@ -129,3 +129,9 @@
 
 -vim 매크로 : 매크로에 저장해둔 것을 **.vimrc**에 만들어 놓고 사용할 수 있다.
 >let @(매크로key) = (Ctrl+r + Ctrl+r + 매크로key)
+
+
+**다양한 vim**
+
+![vim](https://user-images.githubusercontent.com/104884552/172043206-bac5f71a-60f3-450a-a552-cb4fb49c0eb5.PNG)
+
