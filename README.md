@@ -15,3 +15,6 @@
 |   |-m|커널 스레드를 보여준다.|
 |   |-p|특정 PID를 지정할 때 사용한다.|
 
+**ps의 예시**
+
+![ps명령어](https://user-images.githubusercontent.com/104884552/172041958-d52aa737-207e-4340-90e6-ea67328855f6.PNG)
