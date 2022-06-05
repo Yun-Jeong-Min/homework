@@ -18,3 +18,12 @@
 **ps의 예시**
 
 ![ps명령어](https://user-images.githubusercontent.com/104884552/172041958-d52aa737-207e-4340-90e6-ea67328855f6.PNG)
+
+
+**ps-e**
+
+![ps-e명령어](https://user-images.githubusercontent.com/104884552/172042043-04f28892-0bc0-41b8-895e-c86cf7056cbd.PNG)
+
+
+# *top: 시스템 프로세스와 메로리 사용 현황을 실시간으로 출력하는 리눅스 명렁어다*
+-시스템 상태를 전반적으로 가장 빠르게 파악이 가능하다.
